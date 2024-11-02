@@ -1,0 +1,4 @@
+vendor/
+external librarys/
+composer.lock
+*.log
